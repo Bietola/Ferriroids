@@ -14,7 +14,7 @@ int main()
     load_media();
 
     //set up window
-    sf::RenderWindow window(sf::VideoMode(750,750),"hello sfml");
+    sf::RenderWindow window(sf::VideoMode(750,750), "Ferriroids");
     window.setFramerateLimit(30);
 
     //set up game state

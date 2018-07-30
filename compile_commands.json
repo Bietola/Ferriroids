@@ -1,7 +1,92 @@
 [
 {
-  "directory": "/home/dincio/code/cpp/games/sfml/FerriroidsBuild/build",
-  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/FerriroidsBuild/headers    -std=gnu++1z -o CMakeFiles/Proj.dir/src/main.cpp.o -c /home/dincio/code/cpp/games/sfml/FerriroidsBuild/src/main.cpp",
-  "file": "/home/dincio/code/cpp/games/sfml/FerriroidsBuild/src/main.cpp"
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/AsteroidState.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/AsteroidState.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/AsteroidState.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/Cannon.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/Cannon.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/Cannon.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/DumProjectile.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/DumProjectile.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/DumProjectile.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/End.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/End.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/End.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/Entity.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/Entity.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/Entity.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/Ferri.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/Ferri.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/Ferri.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/HitBox.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/HitBox.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/HitBox.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/IntroState.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/IntroState.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/IntroState.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/MediaProvider.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/MediaProvider.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/MediaProvider.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/Meteor.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/Meteor.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/Meteor.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/MovingEntity.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/MovingEntity.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/MovingEntity.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/Shooter.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/Shooter.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/Shooter.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/World.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/World.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/World.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/globals.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/globals.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/globals.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/main.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/main.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/main.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/media.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/media.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/media.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/states.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/states.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/states.cpp"
+},
+{
+  "directory": "/home/dincio/code/cpp/games/sfml/Ferriroids/build",
+  "command": "/usr/bin/c++   -I/home/dincio/code/cpp/games/sfml/Ferriroids/headers -isystem /usr/local/include    -Wall -std=gnu++1z -o CMakeFiles/Proj.dir/src/utils.cpp.o -c /home/dincio/code/cpp/games/sfml/Ferriroids/src/utils.cpp",
+  "file": "/home/dincio/code/cpp/games/sfml/Ferriroids/src/utils.cpp"
 }
 ]
